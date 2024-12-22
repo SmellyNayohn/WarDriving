@@ -27,6 +27,11 @@ sudo apt update && sudo apt install aircrack-ng
 git clone https://github.com/SmellyNayohn/WarDriving.git
 ```
 
+##Add your Wifi Interface : (Know it with command : ```iwconfig``` )
+```
+ORIGINAL_INTERFACE=""  # Your Wi-Fi interface
+```
+
 
 ### Executing program
 
